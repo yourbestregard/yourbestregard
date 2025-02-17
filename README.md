@@ -50,5 +50,5 @@ I'm a passionate Automation Engineering graduate from Indonesia, always eager to
 
 ---
 
-🫰🏻 From yourbestregard(https://github.com/yourbestregard)
+🫰🏻 From [yourbestregard](https://github.com/yourbestregard)
 
