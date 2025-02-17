@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Az-Har Muahamad Nayif]
+# 👋 Hello, I'm Az-Har Muahamad Nayif
 
 ![Profile Banner](https://via.placeholder.com/1500x500)
 
