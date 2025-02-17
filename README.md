@@ -18,6 +18,8 @@ I'm a passionate Automation Engineering graduate from Indonesia, always eager to
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=yourbestregard&show_icons=true&theme=radical" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourbestregard&layout=compact&theme=radical" />
 
+
+
 ## 🌟 Featured Projects
 
 ### Underwater Robot (Work in Progress)
@@ -37,10 +39,10 @@ I'm a passionate Automation Engineering graduate from Indonesia, always eager to
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yourusername/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/yourusername/)
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/yourusername)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=WhatsApp&logoColor=white)](https://wa.me/yournumber)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/az-har-muhamad-nayif/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/azmunaa/)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/yourbestregard)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=WhatsApp&logoColor=white)](https://wa.me/6289637959933)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=About.me&logoColor=white)](https://yourportfolio.com)
 
 ---
