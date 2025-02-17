@@ -18,27 +18,26 @@ I'm a passionate Automation Engineering graduate from Indonesia, always eager to
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=yourbestregard&show_icons=true&theme=radical" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourbestregard&layout=compact&theme=radical" />
 
-
-
-
----
-
 ## 🌟 Featured Projects
 
 ### Underwater Robot (Work in Progress)
-[![Underwater Robot](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=underwater-robot&theme=dark)](https://github.com/yourusername/underwater-robot)
+[![Underwater Robot](https://github-readme-stats.vercel.app/api/pin/?username=yourbestregard&repo=underwater-robot&theme=dark)](https://github.com/yourusername/underwater-robot)
+
+### Enterprise Automation Engineering Department  (Work in Progress)
+[![Enterprise](https://github-readme-stats.vercel.app/api/pin/?username=yourbestregard&repo=enterprise-ae&theme=dark)](https://github.com/yourusername/underwater-robot)
+
 
 ### SCADA and IoT-based Alarms for Chicken Farming
-[![Chicken Farm Alarms](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=chicken-farm-alarms&theme=dark)](https://github.com/yourusername/chicken-farm-alarms)
+[![Chicken Farm Alarms](https://github-readme-stats.vercel.app/api/pin/?username=yourbestregard&repo=chicken-farm-alarms&theme=dark)](https://github.com/yourusername/chicken-farm-alarms)
 
 ### Automatic Filling System based on SCADA
-[![Automatic Filling System](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=automatic-filling-system&theme=dark)](https://github.com/yourusername/automatic-filling-system)
+[![Automatic Filling System](https://github-readme-stats.vercel.app/api/pin/?username=yourbestregard&repo=automatic-filling-system&theme=dark)](https://github.com/yourusername/automatic-filling-system)
 
 ### Camera-equipped Drone
-[![Camera Drone](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=camera-drone&theme=dark)](https://github.com/yourusername/camera-drone)
+[![Camera Drone](https://github-readme-stats.vercel.app/api/pin/?username=yourbestregard&repo=camera-drone&theme=dark)](https://github.com/yourusername/camera-drone)
 
 ### IoT-based Robotic Arm
-[![IoT Robotic Arm](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=iot-robotic-arm&theme=dark)](https://github.com/yourusername/iot-robotic-arm)
+[![IoT Robotic Arm](https://github-readme-stats.vercel.app/api/pin/?username=yourbestregard&repo=iot-robotic-arm&theme=dark)](https://github.com/yourusername/iot-robotic-arm)
 
 ## 📫 Let's Connect
 
